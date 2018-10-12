@@ -1,6 +1,6 @@
-Name:
-Period:
-School year: 20__ - 20__
+Name: Sayan Manney
+Period:2
+School year: 2018 - 2019
 
 
 Directions:
@@ -18,10 +18,11 @@ BEGIN WRITING HERE
 
 Goal 2: COPY AND PASTE GOAL
 
-Rubric:
-- 4:
-- 3:
-- 2:
-- 1:
+To finish the PracticeIt of each unit at least a week before the testRubric:
+
+- 4:Student finished practice it a week before the test understood everything and has a great amount of time to start actually studying for the test 
+- 3:Student finished practice it with 3-4 days before the test 
+- 2:Student finished practice it but on the day right before the test
+- 1:Student didn’t even finish practice it before the test 
 
 
