@@ -1,6 +1,6 @@
-Name:
-Period:
-School year: 20__ - 20__
+Name: Sayan Manney
+Period:2
+School year: 2018 - 2019
 
 
 Directions:
@@ -18,10 +18,12 @@ BEGIN WRITING HERE
 
 Goal 1: COPY AND PASTE GOAL
 
+Proactively Study for a test before hand  
+
 Rubric:
-- 4:
-- 3:
-- 2:
-- 1:
+- 4:Student spent 30 minutes a day reviewing and making sure everything is understood 5 days before the test
+- 3:Student spent 15 min a day 3 days before the test studying everything necessary
+- 2:Student spent a good 30 min day of studying for the test
+- 1:Student doesn’t bother studying for the test and crams everything the night before
 
 
